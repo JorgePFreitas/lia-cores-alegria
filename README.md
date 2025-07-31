@@ -11,4 +11,4 @@ Projeto em parceria com a FAMED
 | CD            | Content Cell | Content Cell                             | Content Cell                             | Content Cell                   | Content Cell               | Content Cell                            |
 | CB            | Content Cell | Content Cell                             | Content Cell                             | Content Cell                   | Content Cell               | Content Cell                            |
 | CA            | Content Cell | Content Cell                             | Content Cell                             | Content Cell                   | Content Cell               | Content Cell                            |
-| **Total**     | X            | Content Cell                             | Content Cell                             | Content Cell                   | Content Cell               | X                                      |
+| **Total**     | X            | Content Cell                             | Content Cell                             | Content Cell                   | X           | X                                      |
