@@ -2,6 +2,8 @@
 
 Projeto em parceria com a FAMED
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 INSTRUÇÕES PARA MANIPULAR OS DADOS:
 
 Crie uma cópia da pasta original pela qual você se responsabilizou seguindo o seguinte exempo:
