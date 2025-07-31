@@ -2,6 +2,8 @@
 
 Projeto em parceria com a FAMED
 
+Planilha com as fotos: https://ufubr-my.sharepoint.com/:f:/r/personal/marcos_antenor_ufu_br/Documents/%5BLIA%5D%20Cores%20da%20Alegria?csf=1&web=1&e=hZWo21
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **INSTRUÇÕES PARA MANIPULAR OS DADOS:**
