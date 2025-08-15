@@ -1,0 +1,81 @@
+RESUMO DO CARREGAMENTO DE IMAGENS
+========================================
+
+ 1. CA20220920-10a.TIF
+    Dimensões: 1058x720px
+    Canais: 3
+    Tamanho: 616.27KB
+    Método: PIL
+
+ 2. CA20220920-11a.TIF
+    Dimensões: 1058x720px
+    Canais: 3
+    Tamanho: 1545.81KB
+    Método: PIL
+
+ 3. CA20220920-12a.TIF
+    Dimensões: 1058x720px
+    Canais: 3
+    Tamanho: 958.11KB
+    Método: PIL
+
+ 4. CA20220920-1a.TIF
+    Dimensões: 1058x720px
+    Canais: 3
+    Tamanho: 1502.38KB
+    Método: PIL
+
+ 5. CA20220920-2a.TIF
+    Dimensões: 1058x720px
+    Canais: 3
+    Tamanho: 616.42KB
+    Método: PIL
+
+ 6. CA20220920-3a.TIF
+    Dimensões: 1058x720px
+    Canais: 3
+    Tamanho: 1396.08KB
+    Método: PIL
+
+ 7. CA20220920-4a.TIF
+    Dimensões: 1058x720px
+    Canais: 3
+    Tamanho: 1503.28KB
+    Método: PIL
+
+ 8. CA20220920-5a.TIF
+    Dimensões: 1058x720px
+    Canais: 3
+    Tamanho: 985.4KB
+    Método: PIL
+
+ 9. CA20220920-6a.TIF
+    Dimensões: 1058x720px
+    Canais: 3
+    Tamanho: 1452.62KB
+    Método: PIL
+
+10. CA20220920-8a.TIF
+    Dimensões: 1058x720px
+    Canais: 3
+    Tamanho: 2082.34KB
+    Método: PIL
+
+11. CA20220920-9a.TIF
+    Dimensões: 1058x720px
+    Canais: 3
+    Tamanho: 334.29KB
+    Método: PIL
+
+12. CA20220920-Xa.TIF
+    Dimensões: 1058x720px
+    Canais: 3
+    Tamanho: 1059.85KB
+    Método: PIL
+
+13. CA20220920-Ya.TIF
+    Dimensões: 1058x720px
+    Canais: 3
+    Tamanho: 979.15KB
+    Método: PIL
+
